@@ -4,6 +4,7 @@ from time import gmtime, strftime
 import time
 import sys
 
+# for Linux OS
 
 def ip():
 	with open('output.txt', 'a') as log:	
